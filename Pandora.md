@@ -10,4 +10,4 @@ Pandora Timeless系列母亲节献礼现活动，挑选闪耀夺目的 Pandora T
 
 ![为爱而爱](https://cms-live.pandora.net/resource/responsive-image/1296962/m66-feature-module-landscape/lg/3/01-timeless-gallery-04.jpg)
 
-[back to the first page]( https://github.com/chggm/English-task/blob/main/Pandora.md )
+[back to the first page](https://github.com/chggm/English-task/blob/main/README.md )
