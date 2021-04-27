@@ -23,7 +23,7 @@
 
 ![Pandora宣传大使张哲瀚](https://cms-live.pandora.net/resource/responsive-image/1356114/m36-hero-full-width-module-large/lg/20/2021-04-14pandoraxzhangzhehan.jpg)
 
-*更多活动现已开启，和Pandora一起，点亮你的生活。*[点击此处查看更多活动](https://github.com/chggm/English-task/blob/main/README.md)
+*更多活动现已开启，和Pandora一起，点亮你的生活。*[点击此处查看更多活动](https://github.com/chggm/English-task/blob/main/Pandora.mdhttps://github.com/chggm/English-task/blob/main/Pandora.md)
 
 ~~经典飞机小游戏代码~~
 
